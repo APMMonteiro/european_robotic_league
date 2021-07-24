@@ -1,0 +1,12 @@
+MAS jason_controller {
+
+	infrastructure: Centralised
+
+	environment: bdiEnvironment
+
+	agents:
+		agent agent;
+
+	aslSourcePath:
+		"src/asl";
+}

@@ -1,0 +1,17 @@
+.vscode
+build/
+devel/
+install/
+src/jason_controller/bin/*
+.catkin_workspace
+erl.code-workspace
+output/
+logs/
+.catkin_tools/
+*.pyc
+*.pkl
+src/nav/nav_tests/src/speedtest.py
+src/hri/auth.json
+bin/
+lib/
+.gitold
